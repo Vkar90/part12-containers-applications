@@ -1,0 +1,5 @@
+VKardamitsis@Vaggeliss-MBP ~ % docker exec -it fd9caa0b787dc4cf5b2a5807da073e08b796412f11d9b7444a9cf61652ef76d2 /bin/sh
+# script
+Script started, output log file is 'typescript'.
+# nano /usr/src/app/index.js
+# 
